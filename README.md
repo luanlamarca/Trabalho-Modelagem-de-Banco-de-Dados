@@ -214,3 +214,79 @@ A exclusão de dados no serviço de acolhimento é restrita a erros materiais e 
 <img width="1920" height="108" alt="Captura de Tela 2026-06-12 às 14 35 35" src="https://github.com/user-attachments/assets/03fb6766-2c58-40c9-bdb7-5b99c43b8e6e" />
 <br>
 <br>
+
+## Relatórios
+
+A extração de relatórios estatísticos e gerenciais traduz as linhas do banco de dados em ferramentas de garantia de direitos e diagnósticos sociais. Para a equipe técnica e coordenação do SAICA, o cruzamento dessas informações atende às constantes requisições do Poder Judiciário, Ministério Público e auditorias do SUAS, permitindo monitorar prazos legais e subsidiar políticas públicas baseadas em evidências do território.
+
+Abaixo estão descritos e implementados os 10 relatórios estratégicos que norteiam a gestão do serviço:
+
+### 1. Relatório de Acolhidos e Responsáveis
+Este relatório cruza os dados das crianças acolhidas com os nomes de seus respectivos responsáveis legais e os endereços de origem. É uma ferramenta essencial para o planejamento das ações de aproximação familiar e para subsidiar as informações básicas exigidas nas guias de acolhimento judicial.
+
+<img width="1920" height="996" alt="Captura de Tela 2026-06-12 às 14 54 47" src="https://github.com/user-attachments/assets/a6660218-994f-415a-94dd-d94ae00b35ce" />
+<br>
+<br>
+
+###  2. PIAs Pendentes
+O Plano Individual de Atendimento é um instrumento obrigatório por lei e possui prazos estritos para elaboração. Esta consulta lista todas as crianças cujos planos ainda estão pendentes, permitindo que a coordenação ordene prioridades para que a equipe técnica não ultrapasse o tempo limite determinado pelo Estatuto da Criança e do Adolescente.
+
+<img width="1920" height="996" alt="Captura de Tela 2026-06-12 às 14 55 11" src="https://github.com/user-attachments/assets/2f019ab9-1fea-4067-a409-87ab25c375bb" />
+<br>
+<br>
+
+### 3. Histórico de Atendimentos por Colaborador
+Centraliza e organiza de forma cronológica todas as intervenções, escutas e estudos de caso realizados por um profissional específico da equipe técnica de referência. É fundamental para auditar o fluxo de trabalho individual, monitorar a evolução dos casos e instruir processos de prestação de contas.
+
+<img width="1920" height="996" alt="Captura de Tela 2026-06-12 às 14 55 40" src="https://github.com/user-attachments/assets/8c23130f-0575-4c9e-b3a3-f6f5a13b10e2" />
+<br>
+<br>
+
+### 4. Desligamento de Acolhidos por Reintegração em Família de Origem
+Mapeia os casos históricos e recentes em que o objetivo principal do serviço foi atingido: o retorno seguro da criança ao núcleo familiar de origem. O relatório reúne os nomes dos responsáveis e os endereços, servindo de base para o plano de acompanhamento subsequente durante a etapa de pós-acolhimento.
+
+<img width="1920" height="996" alt="Captura de Tela 2026-06-12 às 14 56 17" src="https://github.com/user-attachments/assets/b5b671e4-a903-42c2-a390-45d0962b19b4" />
+<br>
+<br>
+
+### 5. Documentação Pendente dos Acolhidos
+Levanta em tempo real quais crianças possuem documentos civis extraviados, rasgados ou retidos. A regularização da documentação é o primeiro passo para garantir o acesso a direitos básicos como matrícula escolar, inclusão em programas sociais e atendimento médico especializado.
+
+<img width="1920" height="996" alt="Captura de Tela 2026-06-12 às 14 56 42" src="https://github.com/user-attachments/assets/e0a37603-c999-4c10-ae41-7561bcf5c85b" />
+<br>
+<br>
+
+### 6. Acolhimento por Abandono Material, Moral ou Intelectual e Bairros
+Este relatório cruza a incidência de acolhimentos motivados especificamente por abandono com a distribuição geográfica das famílias pelos bairros de Franca. Trata-se de um indicador essencial para o diagnóstico socioterritorial, permitindo identificar quais regiões necessitam de maior fortalecimento da rede de proteção básica e atuação preventiva dos CRAS.
+
+<img width="1920" height="996" alt="Captura de Tela 2026-06-12 às 14 57 07" src="https://github.com/user-attachments/assets/3f02929c-ec77-4320-94cc-bdfaaf66fa92" />
+<br>
+<br>
+
+### 7. Acolhimento de Crianças Pretas ou Pardas
+Mapeia o perfil étnico-racial das crianças ativas no serviço de acolhimento institucional. O monitoramento deste recorte é fundamental para alimentar indicadores epidemiológicos locais e nacionais, servindo de base para o enfrentamento de vulnerabilidades específicas e subsidiar o planejamento de políticas afirmativas e protetivas.
+
+<img width="1920" height="996" alt="Captura de Tela 2026-06-12 às 14 57 34" src="https://github.com/user-attachments/assets/cadaabc2-4752-41b3-8cb7-4230db7027a2" />
+<br>
+<br>
+
+### 8. Tempo de Permanência dos Acolhidos Ativos em Dias
+O acolhimento deve ser uma medida estritamente provisória e breve. Esta consulta calcula em dias o tempo exato de permanência de cada acolhido ativo desde a sua data de entrada, gerando o indicador mais crítico do serviço para disparar alertas técnicos em casos que estejam se estendendo excessivamente.
+
+<img width="1920" height="996" alt="Captura de Tela 2026-06-12 às 14 58 25" src="https://github.com/user-attachments/assets/f1a7b0e6-0222-4b17-8997-0470dd6ae472" />
+<br>
+<br>
+
+### 9. Tempo de Permanência dos Colaboradores Ativos em Dias
+Mapeia o tempo de atuação dos profissionais com vínculo estável dentro da instituição. Na realidade de um abrigo, a baixa rotatividade de colaboradores (especialmente cuidadores e equipe de referência) é um indicador de qualidade, pois garante estabilidade rotineira e a construção de vínculos de apego seguros para as crianças.
+
+<img width="1920" height="996" alt="Captura de Tela 2026-06-12 às 14 58 58" src="https://github.com/user-attachments/assets/e33dda92-32a6-47b2-8846-03bf7bdf782d" />
+<br>
+<br>
+
+### 10. Acolhidos Ativos que realizam Visitas Domiciliares
+Acompanha de forma centralizada as ações de campo em que a equipe técnica realizou visitas externas diretamente articuladas ao plano de metas dos casos ativos. Garante o controle gerencial das vistorias nas habitações e o monitoramento da evolução das condições familiares.
+
+<img width="1920" height="996" alt="Captura de Tela 2026-06-12 às 14 59 27" src="https://github.com/user-attachments/assets/b96b5c43-1c3f-4012-9933-b882871595ee" />
+<br>
+<br>

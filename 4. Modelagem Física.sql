@@ -11,13 +11,13 @@ CREATE TABLE familia_de_origem (
 
 CREATE TABLE colaborador (
   matricula VARCHAR(50) PRIMARY KEY,
-  primeiro_nome VARCHAR(50),
-  sobrenome VARCHAR(100),
-  cargo VARCHAR(50),
+  primeiro_nome VARCHAR(50) NOT NULL,
+  sobrenome VARCHAR(100) NOT NULL,
+  cargo VARCHAR(50) NOT NULL,
   registro_conselho VARCHAR(20),
-  email_institucional VARCHAR(100),
+  email_institucional VARCHAR(100) NOT NULL,
   vinculo_empregaticio VARCHAR(50),
-  data_admissao DATE,
+  data_admissao DATE NOT NULL,
   data_desligamento DATE
 );
 
@@ -50,13 +50,13 @@ CREATE TABLE telefone_colaborador (
 CREATE TABLE acolhido (
     numero_prontuario VARCHAR(20) PRIMARY KEY,
     id_familia INT REFERENCES familia_de_origem(id) NULL,
-    primeiro_nome VARCHAR(50),
-    sobrenome VARCHAR(100),
-    data_nascimento DATE,
-    sexo VARCHAR(20),
-    raca_cor VARCHAR(30),
-    situacao_atual VARCHAR(50),
-    data_acolhimento DATE,
+    primeiro_nome VARCHAR(50) NOT NULL,
+    sobrenome VARCHAR(100) NOT NULL,
+    data_nascimento DATE NOT NULL,
+    sexo VARCHAR(20) NOT NULL,
+    raca_cor VARCHAR(30) NOT NULL,
+    situacao_atual VARCHAR(50) NOT NULL,
+    data_acolhimento DATE NOT NULL,
     motivo_acolhimento VARCHAR(500),
     data_desligamento DATE,
     tipo_desligamento VARCHAR(50)
@@ -78,11 +78,11 @@ CREATE TABLE pia (
 
 CREATE TABLE atendimento (
     id SERIAL PRIMARY KEY,
-    numero_prontuario_acolhido VARCHAR(20) REFERENCES acolhido(numero_prontuario),
-    matricula_colaborador VARCHAR(50) REFERENCES colaborador(matricula),
-    data_realizacao DATE,
+    numero_prontuario_acolhido VARCHAR(20) NOT NULL REFERENCES acolhido(numero_prontuario),
+    matricula_colaborador VARCHAR(50) NOT NULL REFERENCES colaborador(matricula),
+    data_realizacao DATE NOT NULL,
     horario_realizacao TIME,
-    tipo VARCHAR(50),
+    tipo VARCHAR(50) NOT NULL,
     descricao TEXT,
     encaminhamento TEXT
 );

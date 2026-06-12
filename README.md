@@ -16,6 +16,33 @@ Devido ao caráter absolutamente sigiloso e sensível das informações tratadas
 
 A única exceção presente no banco de dados são os meus próprios dados profissionais (registrados na tabela de colaboradores sob a matrícula MAT-001 como Assistente Social), inseridos para formalizar a autoria técnica.
 
+### Estrutura da Pasta de Arquivos do Repositório
+
+Abaixo está o índice de arquivos na pasta deste repositório, organizados para acompanhar a linha do tempo de desenvolvimento do projeto. 
+
+*Nota: Todos os arquivos de "Print" (em .pdf) são evidências visuais registradas durante o processo de criação, execução e validação dos dados em cada uma das etapas, contendo data e horário da realização.*
+
+* **1. Cenário.rtf / 1.1 Print Cenário.pdf** - 
+  Documento de texto contendo a descrição das regras de negócio e a realidade do SAICA que fundamentam o projeto.
+
+* **2. Modelagem Conceitual.png / 2.1 Print Modelagem Conceitual.pdf** - 
+  Imagem do Diagrama Entidade-Relacionamento (DER), mapeando as entidades e seus atributos antes da conversão para o banco de dados.
+
+* **3. Modelagem Lógica.png / 3.1 Print Modelagem Lógica.pdf** - 
+  Esquema relacional demonstrando como as entidades se conectam através das chaves primárias (PK) e estrangeiras (FK).
+
+* **4. Modelagem Física.sql / 4.1 Print Modelagem Física.pdf** - 
+  Script com os comandos CREATE TABLE utilizados para construir a estrutura oficial do banco de dados no SGBD.
+
+* **5. Inserção de Dados.sql / 5.1 Print Inserção de Dados.pdf** - 
+  Script com os comandos INSERT responsáveis por popular o banco de dados com o volume de registros fictícios necessários para as simulações.
+
+* **6. Crude.sql / 6.1 Print Crude.pdf** - 
+  Script demonstrando as operações fundamentais de rotina do sistema: criação, leitura, atualização e exclusão (CRUD).
+
+* **7. Relatórios.sql / 7.1 Prints Relatórios.pdf** - 
+  Script contendo as 10 consultas gerenciais complexas (usando JOINs, agrupamentos e filtros), elaboradas para extrair estatísticas e auxiliar na tomada de decisão técnica.
+
 ## Cenário
 
 O Acolhimento Institucional Infantojuvenil é um serviço de proteção social especial de alta complexidade, mantido pela Prefeitura Municipal de Franca, que tem por finalidade oferecer acolhimento provisório a crianças e adolescentes de 0 a 17 anos e 11 meses que se encontram em situação de risco pessoal ou social, cujos vínculos familiares estejam temporariamente rompidos ou fragilizados. O serviço opera em conformidade com o Estatuto da Criança e do Adolescente (ECA), com o Sistema Único de Assistência Social (SUAS) e com as orientações técnicas do Ministério do Desenvolvimento Social para serviços de acolhimento institucional.

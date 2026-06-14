@@ -98,8 +98,10 @@ Abaixo, apresento as tabelas criadas e a justificativa social e administrativa d
 ### Tabela familia_de_origem
 
 Fundamental para o nosso trabalho, pois o acolhimento é uma medida provisória. Esta tabela armazena o histórico do endereço e a renda da família, elementos cruciais nos nossos estudos sociais para a avaliação da possibilidade de reintegração familiar. Entretanto, nem sempre esses dados vem acompanhados com os acolhidos, sendo necessária uma investigação posteriormente pela Equipe Técnica do serviço. 
-
 <img width="1920" height="323" alt="image" src="https://github.com/user-attachments/assets/142ad048-7988-4a03-9315-31792a58f778" />
+<br>
+<br>
+<img width="1470" height="586" alt="Captura de Tela 2026-06-14 às 12 42 18" src="https://github.com/user-attachments/assets/2d4da295-eada-44ed-9960-3e533b909a87" />
 <br>
 <br>
 <img width="1872" height="946" alt="image" src="https://github.com/user-attachments/assets/995f3689-840b-47d1-adbb-a497574a444e" />
@@ -111,6 +113,12 @@ Fundamental para o nosso trabalho, pois o acolhimento é uma medida provisória.
 
 Registra a equipe de referência. Esta tabela vincula cada profissional ao seus respectivo dados pessoais. 
 <img width="1920" height="483" alt="image" src="https://github.com/user-attachments/assets/8bd251b3-c611-4871-be9a-ae415c556a7e" />
+<br>
+<br>
+<img width="1470" height="586" alt="Captura de Tela 2026-06-14 às 12 42 26" src="https://github.com/user-attachments/assets/99e9ddea-582b-4077-8d82-47e33250cf99" />
+<br>
+<br>
+<img width="1470" height="586" alt="Captura de Tela 2026-06-14 às 12 42 32" src="https://github.com/user-attachments/assets/66046081-6238-411e-96ea-a3f73a459096" />
 <br>
 <br>
 <img width="1872" height="946" alt="image" src="https://github.com/user-attachments/assets/6875c98a-3613-42d2-bcf2-444a417e7c9c" />
@@ -128,6 +136,9 @@ A falta de documentação civil é um problema constante na nossa rotina. Criei 
 <img width="1920" height="266" alt="image" src="https://github.com/user-attachments/assets/054b1119-5c6a-4dcc-86dc-a077df02275f" />
 <br>
 <br>
+<img width="1470" height="586" alt="Captura de Tela 2026-06-14 às 12 42 38" src="https://github.com/user-attachments/assets/a3ab1701-458d-45f1-a56a-690b232b1462" />
+<br>
+<br>
 <img width="1872" height="946" alt="image" src="https://github.com/user-attachments/assets/c882fbfc-e9e2-4e09-a8dc-840481e3435e" />
 <br>
 <br>
@@ -140,6 +151,9 @@ Esta tabela consolida o histórico de entrada, o motivo do acolhimento e o desfe
 <img width="1920" height="403" alt="image" src="https://github.com/user-attachments/assets/c00e3bf5-53e7-4221-80a8-5b020990b2d8" />
 <br>
 <br>
+<img width="1470" height="586" alt="Captura de Tela 2026-06-14 às 12 42 48" src="https://github.com/user-attachments/assets/2321c175-c9e8-4209-b53d-ad2d9534f821" />
+<br>
+<br>
 <img width="1872" height="946" alt="image" src="https://github.com/user-attachments/assets/efebbfd9-1833-4f68-8a33-b39bfa7fc77d" />
 <br>
 <br>
@@ -150,6 +164,12 @@ Esta tabela consolida o histórico de entrada, o motivo do acolhimento e o desfe
 A rede de proteção depende de comunicação rápida. Separei os contatos e os responsáveis em tabelas próprias porque um acolhido pode ter diversos vínculos (avós, tios, pais). Isso nos dá agilidade para acionar a rede em situações de emergência sem perder informações importantes.
 
 <img width="1920" height="345" alt="image" src="https://github.com/user-attachments/assets/8d2d5134-7fa5-4b32-8ceb-cc36bc844045" />
+<br>
+<br>
+<img width="1470" height="586" alt="Captura de Tela 2026-06-14 às 12 42 57" src="https://github.com/user-attachments/assets/85cb361e-8471-4c15-a4d9-23c02cfeefc4" />
+<br>
+<br>
+<img width="1470" height="586" alt="Captura de Tela 2026-06-14 às 12 43 03" src="https://github.com/user-attachments/assets/b002aff1-54ac-4e0b-bd38-072886b72fb2" />
 <br>
 <br>
 <img width="1872" height="946" alt="image" src="https://github.com/user-attachments/assets/0559c617-2ada-48a3-847b-5f078179f38d" />
@@ -167,6 +187,9 @@ Resolve a necessidade prática de associar diversos documentos a uma mesma crian
 <img width="1920" height="226" alt="image" src="https://github.com/user-attachments/assets/883698cb-3136-4079-8b33-7aabd2ad2733" />
 <br>
 <br>
+<img width="1470" height="586" alt="Captura de Tela 2026-06-14 às 12 43 10" src="https://github.com/user-attachments/assets/0fcf9c99-53df-4823-a6c7-20bd0de51d06" />
+<br>
+<br>
 <img width="1872" height="946" alt="image" src="https://github.com/user-attachments/assets/38d8486f-813d-4fd6-bedd-1b34a1c1340a" />
 <br>
 <br>
@@ -179,6 +202,9 @@ O Plano Individual de Atendimento é uma exigência técnica do SUAS. Ter uma ta
 <img width="1920" height="261" alt="image" src="https://github.com/user-attachments/assets/16dd5bda-3a89-43a9-ba70-c5d4e637c9fb" />
 <br>
 <br>
+<img width="1470" height="586" alt="Captura de Tela 2026-06-14 às 12 43 16" src="https://github.com/user-attachments/assets/00986a25-1172-4bc7-8c8b-5c61cda0bb21" />
+<br>
+<br>
 <img width="1872" height="946" alt="image" src="https://github.com/user-attachments/assets/f5da6279-67e4-4f0d-987c-96bc50bba62e" />
 <br>
 <br>
@@ -189,6 +215,9 @@ O Plano Individual de Atendimento é uma exigência técnica do SUAS. Ter uma ta
 Documenta todo o trabalho de escuta, visitas domiciliares e reuniões de rede. É aqui que registramos a evolução do caso. Ela permite que qualquer profissional da equipe técnica, ao assumir um plantão ou uma nova demanda, consiga ler o histórico completo e evitar a revitimização do acolhido através de repetições desnecessárias de relatos.
 
 <img width="1920" height="328" alt="image" src="https://github.com/user-attachments/assets/2bca56c4-d090-4108-9b5b-a1958ad47cde" />
+<br>
+<br>
+<img width="1470" height="586" alt="Captura de Tela 2026-06-14 às 12 43 23" src="https://github.com/user-attachments/assets/0672a7eb-0fc4-4828-b9f7-5cb80e75db5c" />
 <br>
 <br>
 <img width="1872" height="946" alt="image" src="https://github.com/user-attachments/assets/9a035ba8-06b0-4d1a-a7e7-ca8b9e32b316" />
